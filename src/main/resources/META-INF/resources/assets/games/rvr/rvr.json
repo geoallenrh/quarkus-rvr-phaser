@@ -1,0 +1,103 @@
+{
+	"textures": [
+		{
+			"image": "rvr",
+			"format": "RGBA8888",
+			"size": {
+				"w": 346,
+				"h": 138
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "player",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 225,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 222,
+						"h": 138
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 222,
+						"h": 138
+					}
+				},
+				{
+					"filename": "water",
+					"rotated": true,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 69
+					},
+					"frame": {
+						"x": 222,
+						"y": 0,
+						"w": 40,
+						"h": 69
+					}
+				},
+				{
+					"filename": "whammy1",
+					"rotated": true,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 55
+					},
+					"frame": {
+						"x": 291,
+						"y": 0,
+						"w": 40,
+						"h": 55
+					}
+				},
+				{
+					"filename": "whammy2",
+					"rotated": true,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 55
+					},
+					"frame": {
+						"x": 291,
+						"y": 0,
+						"w": 40,
+						"h": 55
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
