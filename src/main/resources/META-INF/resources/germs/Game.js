@@ -35,7 +35,7 @@ export default class MainGame extends Phaser.Scene
 
         this.scoreText = this.add.bitmapText(16, 32, 'slime', 'Score   0', 40).setDepth(1);
 
-        this.introText = this.add.bitmapText(400, 300, 'slime', 'Avoid the Whammies\nCollect the Water', 60).setOrigin(0.5).setCenterAlign().setDepth(1);
+        this.introText = this.add.bitmapText(400, 300, 'slime', 'Avoid the Whammies\n Find the Water', 60).setOrigin(0.5).setCenterAlign().setDepth(1);
 
         this.pickups.start();
 
